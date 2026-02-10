@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "bfhl-api",
   "version": "1.0.0",
   "description": "Bajaj Finserv Health qualifier API",
@@ -16,3 +16,4 @@
     "node": ">=18"
   }
 }
+
